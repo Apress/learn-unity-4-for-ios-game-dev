@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FuguAdInterstitial.js">
+    <Files>
+      <File FileName="Assets/Scripts/AdBanner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FuguPause.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FrameRate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UVAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spinner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameCenter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FuguRotate.js" Line="1" Column="1" />
+      <File FileName="Assets/NewBehaviourScript.js" Line="1" Column="1" />
+      <File FileName="Assets/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Editor/FuguEditor.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FuguSplash.js" Line="11" Column="31" />
+      <File FileName="Assets/Scripts/Splash.cs" Line="7" Column="23" />
+      <File FileName="Assets/Scripts/FuguAdInterstitial.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
